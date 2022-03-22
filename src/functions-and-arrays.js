@@ -126,9 +126,7 @@ function compress(wordsCount){
      return com;
  };
 console.log(compress(wordsCount));
-
 // Progression #8: Bonus
-
 const matrix = [
   [08, 02, 22, 97, 38, 15, 00, 40, 00, 75],
   [49, 49, 99, 40, 17, 81, 18, 57, 60, 87],
